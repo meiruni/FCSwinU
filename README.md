@@ -1,25 +1,10 @@
 
-# FSwinU：
-
-
+# FSwinU：Fourier Convolutions and Swin Transformer UNet for Advancing Hyperspectral and Multispectral Image Fusion 
 
 
 ## Network Architecture
 
-- The overall architecture diagram of our proposed multiscale spatial–spectral Transformer network.
-  <!-- ![Illustration of MSST-Net](figure/framework.png) -->
-
-<div aligh=center witdh="200"><img src="figure/framework.png"></div>
-
-
-- The architecture diagram of the masked patches autoencoder.
-  <!-- ![Illustration of hsi pretrain](figure/pretrain_hsi.png) -->
-  <img src="figure/pretrain_hsi.png" aligh=center witdh="50px">
-
-
-- The architecture diagram of the masked bands autoencoder.
-  <!-- ![Illustration of msi pretrain](figure/pretrain_msi.png) -->
-  <img src="figure/pretrain_msi.png" aligh=center witdh="50px">
+- The overall architecture diagram of our proposed FSwinU.
 
 
 
@@ -40,7 +25,6 @@ pip install opencv-python
 - Download the CAVE dataset from <a href="https://www1.cs.columbia.edu/CAVE/databases/multispectral">here</a>.
 
 
-## Citation
-
-If this repo helps you, please consider citing our works:
+# Notion
+he code will be made publicly available after the publication of the paper.
 
