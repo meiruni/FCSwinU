@@ -14,17 +14,17 @@
 
 - NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
 
-pip install timm
-pip install thop
-pip install scikit-image
-pip install scipy
-pip install einops
-pip install opencv-python
+- timm
+- thop
+- scikit-image
+- scipy
+- einops
+- opencv-python
 ## 2. Data Preparation:
 
 - Download the CAVE dataset from <a href="https://www1.cs.columbia.edu/CAVE/databases/multispectral">here</a>.
 
 
-# Notion
-he code will be made publicly available after the publication of the paper.
+# Attention
+the code will be made publicly available after the publication of the paper.
 
