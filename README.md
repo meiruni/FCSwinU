@@ -1,5 +1,5 @@
 
-# FSwinU：Fourier Convolutions and Swin Transformer UNet for Advancing Hyperspectral and Multispectral Image Fusion 
+# FSwin：Fourier Convolutions and Swin Transformer for Advancing Hyperspectral and Multispectral Image Fusion 
 
 
 ## Network Architecture
